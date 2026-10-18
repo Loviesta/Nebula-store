@@ -10,7 +10,7 @@ import {
 
 import { HiOutlineSearch } from 'react-icons/hi'
 
-import products from '../../data/products'
+import products from '../../data/Products'
 import SectionHeading from '../ui/SectionHeading'
 
 const formatPrice = (price) => {
